@@ -1,0 +1,8 @@
+[submodule "archive/1970"]
+	path = archive/1970
+	url = git@git.zhlh6.cn:qrsforever/shiori_archive_1970.git
+	branch = master
+[submodule "archive/2021"]
+	path = archive/2021
+	url = git@git.zhlh6.cn:qrsforever/shiori_archive_2021.git
+	branch = master

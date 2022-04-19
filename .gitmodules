@@ -6,3 +6,7 @@
 	path = archive/2021
 	url = git@git.zhlh6.cn:qrsforever/shiori_archive_2021.git
 	branch = master
+[submodule "archive/2022"]
+	path = archive/2022
+	url = git@github.com:qrsforever/shiori_archive_2022.git
+	branch = master

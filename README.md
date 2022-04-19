@@ -1,6 +1,6 @@
 # shiori_blog_post
 # shiori bookmarks archive files storage
-# lidong:M8
+# lidong:m8
 
 git submodule update --init --recursive
 git submodule foreach --recursive git checkout master

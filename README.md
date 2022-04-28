@@ -6,6 +6,9 @@
 # 	active = true
 # 	url = git@git.zhlh6.cn:qrsforever/shiori_archive_1970.git
   
+```sh
+git submodule sync
 git submodule update --init --recursive
 git submodule foreach --recursive git checkout master
 git submodule foreach --recursive git pull
+```
